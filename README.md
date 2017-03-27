@@ -1,8 +1,4 @@
-[//]: # (This may be the most platform independent comment)
-
-[comment]: <> (This is a comment, it will not be included)
-
-[//]: # (This may be the most platform independent comment)
+[comment]: <> (The line below links to a file that is then served by rawgit.com. It can take time for changes to be reflected.)
 
 <a><img src="https://rawgit.com/EntropyHaos/scripted_java_spark_framework/master/docs/assets/readme_file_title.svg"/></a>
 
@@ -23,11 +19,13 @@ A set of Bash scripts to generate boilerplate for a Java CRUD WebApp.
 
 # HOW!?
 
-### Test Run the Scripts
+There are seve
+
+### Demo the Scripts
 
 ```bash
 git clone git@github.com:EntropyHaos/scripted_java_spark_framework.git tester
-bash tester/z_haos/setup_c9_vm_for_java_spark.bash 
+bash tester/z_haos/setup_c9_vm_for_java_spark.bash --no_prompt
 bash mongodb_run.bash
 bash tester/z_haos/bash_spark_framework_haos.bash --no_delete
 cd a_build/
