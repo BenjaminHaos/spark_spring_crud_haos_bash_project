@@ -1,5 +1,7 @@
 [//]: # (This may be the most platform independent comment)
 
+[comment]: <> (This is a comment, it will not be included)
+
 <a><img src="https://rawgit.com/EntropyHaos/scripted_java_spark_framework/master/docs/assets/readme_file_title.svg"/></a>
 
 **Version 1.0**
