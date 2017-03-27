@@ -8,7 +8,7 @@
 
 <a><img src="https://rawgit.com/EntropyHaos/scripted_java_spark_framework/master/docs/assets/readme_file_title.svg"/></a>
 
-**Version 1.0**
+***Version 1.1***
 
 # WAT!?
 
