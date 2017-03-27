@@ -4,6 +4,8 @@
 [comment]: <> (in  the output file unless you use it in)
 [comment]: <> (a reference style link.)
 
+[//]: # (This may be the most platform independent comment)
+
 <a><img src="https://rawgit.com/EntropyHaos/scripted_java_spark_framework/master/docs/assets/readme_file_title.svg"/></a>
 
 **Version 1.0**
