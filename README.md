@@ -10,6 +10,7 @@ A set of Bash scripts to generate boilerplate for a Java CRUD WebApp.
 
 ### Tech Utilized
 
+* ### [Trello](https://trello.com/b/PLpf3NIn/spark-spring-crud-haos-bash-project)
 * [Cloud9 Virtual IDE](https://c9.io/)
 * [Java Spark Framework](http://sparkjava.com/)
 * [Spring Framework](https://spring.io/)
@@ -19,7 +20,6 @@ A set of Bash scripts to generate boilerplate for a Java CRUD WebApp.
 
 # HOW!?
 
-There are seve
 
 ### Demo the Scripts
 
